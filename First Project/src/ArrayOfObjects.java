@@ -20,6 +20,12 @@ arr[4]=new Student1(5,"Min");
 for(int i=0;i<arr.length;i++)
 	System.out.println("element at " +i+ ":"+arr[i].roll_no+" "+arr[i].name);
 	
-	}
 
+int arr1[][]= {{1,2,3},{2,3,4},{3,4,5},{4,5,6}};
+for(int i=0;i<3;i++) {
+for(int j=0;j<3;j++)
+	System.out.print(arr1[i][j]);
+System.out.println(); 
+	}
+	}
 }
