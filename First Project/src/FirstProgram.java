@@ -9,12 +9,3 @@ System.out.println("hello world");
 }
 
 
-Constructertypes.java
-method overriding demo
-animal types
-constructor types
-
-object.class
-
-
-demo
