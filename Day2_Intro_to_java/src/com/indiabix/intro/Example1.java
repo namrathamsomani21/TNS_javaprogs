@@ -1,4 +1,5 @@
 //compile time input
+//main() meth is static coz JVM can invoke it without instantiating the class which saves the unnecessary wastage of memory that wud be used by the obj declared only for calling the main() meth by the JVM.
 package com.indiabix.intro;
 
 public class Example1 {
